@@ -3,8 +3,8 @@ export default function Home() {
     <main className="mirror-shell">
       <iframe
         className="mirror-frame"
-        src="/100xengineers-clone.html"
-        title="100xEngineers clone"
+        src="/landing-page.html"
+        title="Landing page"
       />
     </main>
   );
